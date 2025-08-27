@@ -49,6 +49,6 @@ The dashboard highlights:
 - **Filters:** Month, Pickup/Drop Location, Vehicle Type, Payment Method  
 
 ### 📸 Dashboard Preview  
-![Dashboard Screenshot](Dashboard.png)  
+![Dashboard Screenshot](dashboard.png)  
 
   
