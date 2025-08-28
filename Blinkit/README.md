@@ -143,5 +143,5 @@ Untitled.ipynb
 ## 👨‍💻 Author
 **Pritam Nagar**  
 📧 Email: pritamnagar2211@gmail.com  
-💼 LinkedIn: [https://linkedin.com/in/pritamnagar](https://linkedin.com/in/pritamnagar)  
+💼 LinkedIn: [https://linkedin.com/in/pritamnagar](https://linkedin.com/in/pritam-nagar)  
 📂 Portfolio: [https://github.com/pritam9952](https://pritam9952.github.io)
