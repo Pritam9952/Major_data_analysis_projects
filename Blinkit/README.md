@@ -85,7 +85,7 @@ Built an **interactive BlinkIT dashboard** showing:
 ---
 
 ## 📊 Dashboard Snapshot
-![BlinkIT Dashboard](dashboard.png)
+![BlinkIT Dashboard](Blinkit/PowerBi_dashboard/dashboard.png)
 
 ---
 
