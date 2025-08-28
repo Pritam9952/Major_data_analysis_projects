@@ -102,7 +102,7 @@ Built an **interactive BlinkIT dashboard** showing:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/pritamnagar/BlinkIT-Sales-Analysis.git
+git clone https://github.com/pritam9952/BlinkIT-Sales-Analysis.git
 ```
 
 ### **2. Open the Power BI Dashboard**
@@ -144,4 +144,4 @@ Untitled.ipynb
 **Pritam Nagar**  
 📧 Email: pritamnagar2211@gmail.com  
 💼 LinkedIn: [https://linkedin.com/in/pritamnagar](https://linkedin.com/in/pritamnagar)  
-📂 Portfolio: [https://github.com/pritamnagar](https://github.com/pritamnagar)
+📂 Portfolio: [https://github.com/pritam9952](https://pritam9952.github.io)
