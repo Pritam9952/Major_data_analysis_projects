@@ -85,7 +85,7 @@ Built an **interactive BlinkIT dashboard** showing:
 ---
 
 ## 📊 Dashboard Snapshot
-![BlinkIT Dashboard](Blinkit/PowerBi_dashboard/dashboard.png)
+![BlinkIT Dashboard](./PowerBi_dashboard/dashboard.png)
 
 ---
 
@@ -142,6 +142,6 @@ Untitled.ipynb
 
 ## 👨‍💻 Author
 **Pritam Nagar**  
-📧 Email: pritam@example.com  
+📧 Email: pritamnagar2211@gmail.com  
 💼 LinkedIn: [https://linkedin.com/in/pritamnagar](https://linkedin.com/in/pritamnagar)  
 📂 Portfolio: [https://github.com/pritamnagar](https://github.com/pritamnagar)
