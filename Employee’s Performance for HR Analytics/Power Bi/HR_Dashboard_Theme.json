@@ -1,0 +1,84 @@
+{
+  "name": "HR_Analytics_Corporate",
+  "dataColors": [
+    "#3498DB",  
+    "#1ABC9C",  
+    "#E74C3C",  
+    "#9B59B6",  
+    "#F39C12",  
+    "#2ECC71", 
+    "#34495E",  
+    "#95A5A6"   
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C3E50",
+  "tableAccent": "#3498DB",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "fontSize": 13,
+          "fontFamily": "Segoe UI Semibold",
+          "color": { "solid": { "color": "#2C3E50" } }
+        }],
+        "labels": [{
+          "fontSize": 11,
+          "color": { "solid": { "color": "#2C3E50" } }
+        }]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "title": [{
+          "fontSize": 12,
+          "fontFamily": "Segoe UI Bold",
+          "color": { "solid": { "color": "#2C3E50" } }
+        }],
+        "selection": [{
+          "fontSize": 11,
+          "color": { "solid": { "color": "#2C3E50" } }
+        }],
+        "background": [{
+          "color": { "solid": { "color": "#F7F9FB" } }
+        }],
+        "selected": [{
+          "color": { "solid": { "color": "#FFFFFF" } },
+          "background": { "solid": { "color": "#3498DB" } }
+        }]
+      }
+    },
+
+    "card": {
+      "*": {
+        "title": [{
+          "fontSize": 11,
+          "fontFamily": "Segoe UI Bold",
+          "color": { "solid": { "color": "#555555" } }
+        }],
+        "labels": [{
+          "fontSize": 20,
+          "fontFamily": "Segoe UI Bold",
+          "color": { "solid": { "color": "#2C3E50" } }
+        }],
+        "background": [{
+          "color": { "solid": { "color": "#FFFFFF" } }
+        }]
+      }
+    },
+
+    "header": {
+      "*": {
+        "title": [{
+          "fontSize": 18,
+          "fontFamily": "Segoe UI Black",
+          "color": { "solid": { "color": "#2C3E50" } }
+        }],
+        "background": [{
+          "color": { "solid": { "color": "#F4F6F9" } }
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Amazon Style Theme",
+  "dataColors": [
+    "#FF9900",
+    "#232F3E",
+    "#146EB4",
+    "#37475A",
+    "#00A8E1",
+    "#B12704",
+    "#D6E0E9",
+    "#F5F5F5"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#232F3E",
+  "tableAccent": "#FF9900",
+  "visualStyles": {}
+}

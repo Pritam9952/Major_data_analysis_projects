@@ -1,0 +1,40 @@
+{
+  "name": "Smartphone Sales Professional Theme",
+  "dataColors": [
+    "#007AFF",
+    "#34C759",
+    "#FF9500",
+    "#AF52DE",
+    "#FF2D55",
+    "#5AC8FA",
+    "#FFCC00",
+    "#5856D6",
+    "#FF3B30",
+    "#8E8E93"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#1E1E1E",
+  "tableAccent": "#007AFF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": { "solid": { "color": "#1E1E1E" } },
+        "fontFamily": "Segoe UI",
+        "fontSize": 12
+      }
+    },
+    "card": {
+      "*": {
+        "titleText": { "color": { "solid": { "color": "#007AFF" } }, "fontSize": 13 },
+        "labelColor": { "solid": { "color": "#1E1E1E" } },
+        "background": { "solid": { "color": "#FFFFFF" } }
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": { "solid": { "color": "#FFFFFF" } },
+        "titleText": { "color": { "solid": { "color": "#007AFF" } }, "fontSize": 13 }
+      }
+    }
+  }
+}
