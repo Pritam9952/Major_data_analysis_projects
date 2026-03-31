@@ -5,6 +5,9 @@ End-to-end data analytics project focused on understanding customer churn and dr
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
 ![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes customer churn behavior using SQL, Python, and Power BI to identify key factors influencing customer retention and provide actionable business insights.
@@ -31,6 +34,8 @@ Customer churn significantly impacts revenue and growth for subscription-based b
 * Features include demographics, services, billing, and subscription details
 * Target variable: **Churn (Yes/No)**
 
+> ⚠️ Dataset not included due to size constraints. Use Telco Customer Churn dataset from Kaggle.
+
 ---
 
 ## ⚙️ Project Structure
@@ -38,38 +43,68 @@ Customer churn significantly impacts revenue and growth for subscription-based b
 ```
 netflix_user_retention_analysis/
 │── data/
-│   ├── raw/
-│   ├── processed/
-│
 │── sql/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_kpi_calculations.sql
-│   ├── 03_churn_analysis.sql
-│   ├── 04_cohort_analysis.sql
-│   ├── 05_advanced_analysis.sql
-│
 │── python/
-│   ├── 01_eda.ipynb
-│   ├── 02_feature_engineering.ipynb
-│
 │── dashboard/
-│   ├── netflix_churn_dashboard.pbix
-│
 │── docs/
-│   ├── problem_statement.md
-│   ├── data_dictionary.md
-│   ├── insights.md
-│   ├── recommendations.md
-│
 │── presentation/
-│   ├── netflix_churn_case_study.pptx
 ```
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+### 📉 Churn Distribution
+
+![Churn Distribution](./images/customers_churn_distribution.png)
+
+👉 Majority customers are retained, but churn (~26.5%) is significant
+
+---
+
+### 📊 Churn by Contract Type
+
+![Churn by Contract](.//images/churn_by_contract.png)
+
+👉 Month-to-month contracts show the highest churn
+
+---
+
+### ⏳ Churn by Tenure Group
+
+![Churn by Tenure](./images/churn_by_tenure_group.png)
+
+👉 New customers (0–1 year) are most likely to churn
+
+---
+
+### 💳 Churn by Payment Method
+
+![Churn by Payment](./images/churn_by_payment.png)
+
+👉 Electronic check users show higher churn
+
+---
+
+### 💰 Monthly Charges vs Churn
+
+![Charges vs Churn](./images/churn_vs_monthly_charges.png)
+
+👉 Higher monthly charges increase churn probability
+
+---
+
+### 🔥 Correlation Heatmap
+
+![Heatmap](./images/correlation_heatmap.png)
+
+👉 Strong relationship between tenure and total charges
 
 ---
 
 ## 📈 Key Insights
 
-* Month-to-month contracts have the highest churn
+* Month-to-month contracts have the highest churn (~40%+)
 * New customers are more likely to churn
 * Electronic payment methods show higher churn
 * High monthly charges increase churn probability
@@ -87,7 +122,7 @@ An interactive Power BI dashboard was created to visualize:
 
 📸 Dashboard Preview:
 
-![Dashboard Screenshot](./dashboard/netflix_dashboard.png) 
+![Dashboard Screenshot](./dashboard/netflix_dashboard.png)
 
 ---
 
