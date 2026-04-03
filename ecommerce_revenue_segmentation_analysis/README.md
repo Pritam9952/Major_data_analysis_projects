@@ -143,7 +143,7 @@ Shows BEAUTY as highest revenue category
 
 ## 💸 Discount vs Revenue
 
-![Discount vs Revenue](/images/Discount%20Impact.png)
+![Discount vs Revenue](./images/Discount%20Impact.png)
 
 ---
 
@@ -169,7 +169,7 @@ Shows BEAUTY as highest revenue category
 
 ## 🔹 Dashboard Preview
 
-![Dashboard Preview](/dashboard/ecommerce_revenue_segmentation_analysis.png)
+![Dashboard Preview](./dashboard/ecommerce_revenue_segmentation_analysis.png)
 
 ---
 
