@@ -46,7 +46,7 @@ Welcome to my master repository. This collection showcases my ability to transfo
 ## 📈 Dashboard Previews
 ### **Telecom Churn & Customer Insight Dashboard**
 *A high-level view of customer demographics, contract types, and churn probability.*
-![Dashboard Screenshot](.netflix_user_retention_analysis/dashboard/netflix_dashboard.png)
+![Dashboard Screenshot](netflix_user_retention_analysis/dashboard/netflix_dashboard.png)
 
 ---
 
