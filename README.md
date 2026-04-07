@@ -47,7 +47,7 @@ Welcome to my master repository for Data Analysis and Business Intelligence. Thi
 ---
 
 ## 📈 Dashboard Previews
-(netflix_user_retention_analysis/dashboard/netflix_dashboard.png)
+![Dashboard Screenshot](netflix_user_retention_analysis/dashboard/netflix_dashboard.png)
 
 ---
 
